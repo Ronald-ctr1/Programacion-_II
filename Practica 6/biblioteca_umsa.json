@@ -1,0 +1,57 @@
+{
+    "nombre": "Biblioteca Central UMSA",
+    "horario": {
+        "dias": "Lunes a Viernes",
+        "h_apertura": "8:00",
+        "h_cierre": "18:00"
+    },
+    "libros": [
+        {
+            "titulo": "Cien Años de Soledad",
+            "isbn": "978-0307474728",
+            "paginas": [
+                {
+                    "numero": 1,
+                    "contenido": "Capítulo 1"
+                },
+                {
+                    "numero": 2,
+                    "contenido": "Capítulo 2"
+                },
+                {
+                    "numero": 3,
+                    "contenido": "Capítulo 3"
+                },
+                {
+                    "numero": 4,
+                    "contenido": "Capítulo 4"
+                }
+            ]
+        },
+        {
+            "titulo": "El Principito",
+            "isbn": "978-3125971501",
+            "paginas": [
+                {
+                    "numero": 1,
+                    "contenido": "Intro"
+                },
+                {
+                    "numero": 2,
+                    "contenido": "Encuentro con el piloto"
+                },
+                {
+                    "numero": 3,
+                    "contenido": "Despedida"
+                }
+            ]
+        }
+    ],
+    "autores": [
+        {
+            "nombre": "Gabriel García Márquez",
+            "nacionalidad": "Colombiana"
+        }
+    ],
+    "prestamos": []
+}
